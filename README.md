@@ -5,7 +5,7 @@ An online store project that will be finalized in each lesson throughout the cou
 Installation and Setup
 1. Clone the Repository
 
-git clone https://github.com/
+git clone https://github.com/](https://github.com/AlCher38/djangoProject.git
 cd TechnicalStore
 
 2. Copy the env.example file to .env:
